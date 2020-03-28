@@ -26,10 +26,9 @@ new Docute({
           link: '/installation'
         },
         {
-        title: 'TestMe',
-        link: '/testme'
-        },
-
+          title: 'TestMe',
+          link: '/testme'
+        }
       ]
     }
   ]
