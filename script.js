@@ -24,7 +24,12 @@ new Docute({
         {
           title: 'Installation',
           link: '/installation'
-        }
+        },
+        {
+        title: 'TestMe',
+        link: '/testme'
+        },
+
       ]
     }
   ]
